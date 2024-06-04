@@ -311,6 +311,10 @@ const charSettings = {
             enabled: false,
             intervalSeconds: 3600,
         },
+        abyss: {
+            enabled: false,
+            intervalSeconds: 3600
+        },
         events: {
             enabled: false,
         },
@@ -321,6 +325,10 @@ const charSettings = {
         labyrinth: {
             enabled: false,
             intervalSeconds: 3600,
+        },
+        abyss: {
+            enabled: false,
+            intervalSeconds: 3600
         },
         events: {
             enabled: false,
