@@ -137,7 +137,7 @@ const charSettings = {
             intervalSeconds: 3600
         },
         bosses: {
-            enabled: true,
+            enabled: false,
         },
     },
     Killarius: { 
@@ -147,7 +147,7 @@ const charSettings = {
             intervalSeconds: 3600
         },
         bosses: {
-            enabled: true,
+            enabled: false,
         },
     },
     Huntarius: { 
@@ -157,7 +157,7 @@ const charSettings = {
             intervalSeconds: 3600
         },
         bosses: {
-            enabled: true,
+            enabled: false,
         },
     },
     Gladiarius: { 
@@ -167,7 +167,7 @@ const charSettings = {
             intervalSeconds: 3600
         },
         bosses: {
-            enabled: true,
+            enabled: false,
         },
     },
     Mercenarius: { 
@@ -177,7 +177,7 @@ const charSettings = {
             intervalSeconds: 3600
         },
         bosses: {
-            enabled: true,
+            enabled: false,
         },
     },
     Wararius: { 
@@ -187,7 +187,7 @@ const charSettings = {
             intervalSeconds: 3600
         },
         bosses: {
-            enabled: true,
+            enabled: false,
         },
     },
     Legionarius: { 
@@ -197,7 +197,7 @@ const charSettings = {
             intervalSeconds: 3600
         },
         bosses: {
-            enabled: true,
+            enabled: false,
         },
     },
     Lancarius: { 
@@ -207,7 +207,7 @@ const charSettings = {
             intervalSeconds: 3600
         },
         bosses: {
-            enabled: true,
+            enabled: false,
         },
     },
     Knightarius: { 
@@ -217,7 +217,7 @@ const charSettings = {
             intervalSeconds: 3600
         },
         bosses: {
-            enabled: true,
+            enabled: false,
         },
     },
     ['OG Arius']: { 
