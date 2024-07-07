@@ -137,7 +137,7 @@ const charSettings = {
             intervalSeconds: 3600
         },
         bosses: {
-            enabled: false,
+            enabled: true,
         },
     },
     Killarius: { 
@@ -147,7 +147,7 @@ const charSettings = {
             intervalSeconds: 3600
         },
         bosses: {
-            enabled: false,
+            enabled: true,
         },
     },
     Huntarius: { 
