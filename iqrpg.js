@@ -318,6 +318,10 @@ const charSettings = {
         events: {
             enabled: true,
         },
+        dungeons: {
+            enabled: false,
+            intervalSeconds: 7200,
+        },
     },
     Jewelarius: {
         roles: [Role.All, Role.JewelCrafter, Role.Alt, Role.Dungeoneer],
@@ -332,6 +336,10 @@ const charSettings = {
         },
         events: {
             enabled: true,
+        },
+        dungeons: {
+            enabled: false,
+            intervalSeconds: 7200,
         },
     },
     Dungarius: {
