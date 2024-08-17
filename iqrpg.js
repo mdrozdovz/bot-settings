@@ -316,7 +316,7 @@ const charSettings = {
             intervalSeconds: 3600
         },
         events: {
-            enabled: true,
+            enabled: false,
         },
         dungeons: {
             enabled: false,
@@ -335,7 +335,7 @@ const charSettings = {
             intervalSeconds: 3600
         },
         events: {
-            enabled: true,
+            enabled: false,
         },
         dungeons: {
             enabled: false,
