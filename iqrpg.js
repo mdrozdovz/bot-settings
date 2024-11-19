@@ -327,18 +327,18 @@ const charSettings = {
         roles: [Role.All, Role.JewelCrafter, Role.Alt, Role.Dungeoneer],
         resource: Resource.Resources.Metal,
         labyrinth: {
-            enabled: false,
+            enabled: true,
             intervalSeconds: 3600,
         },
         abyss: {
-            enabled: false,
+            enabled: true,
             intervalSeconds: 3600
         },
         events: {
-            enabled: false,
+            enabled: true,
         },
         dungeons: {
-            enabled: false,
+            enabled: true,
             intervalSeconds: 7200,
         },
     },
