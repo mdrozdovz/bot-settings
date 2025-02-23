@@ -116,6 +116,7 @@ class Rarity {
     static Legendary = 5
     static Mythic = 6
     static Celestial = 7
+    static None = 8
 }
 
 const charSettings = {
